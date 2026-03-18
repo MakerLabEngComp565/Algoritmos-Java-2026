@@ -34,8 +34,6 @@ public class CalculadoraPessoal {
         System.out.printf("Peso: %.1f kg%n", peso);
         System.out.printf("Altura: %.2f m%n", altura);
         System.out.printf("Seu IMC é: %.2f%n", imc);
-        
-        //  SAÍDA
         System.out.printf("Seu peso ideal (IMC 22) é: %.2f kg%n", pesoIdeal);
       
         sc.close();
